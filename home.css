@@ -1,0 +1,74 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    border: 0px;
+}
+.partone{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.partone ul{
+    display: flex;
+    gap: 20px;
+}
+.partone li{
+    display: flex;
+    gap: 20px;
+    padding-top: 8px;
+    
+}
+.bgn{
+    background-color: greenyellow;
+    padding: 20px;
+    padding-left: 40%;
+}
+
+
+.partt {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+   padding-bottom: 70px;
+
+}
+
+.partt  h1{
+    color: blue;
+    font-size: medium;
+    padding-top: 20px;
+}
+
+.midig img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+
+
+
+}
+.pidix img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+
+
+}
+
+.kor h1{
+    color: blue;
+    font-size: medium;
+    padding-top: 10px;
+
+}
+
+
+ .kor {
+    margin-left: 30%;
+    padding-bottom: 30px;
+ }
